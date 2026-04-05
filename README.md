@@ -1,4 +1,4 @@
 # demo
 This is my first Git Repository.
 <br>
-Author - Aditya Patidar
+Author - Aditya Patidar (IIT INDORE)
